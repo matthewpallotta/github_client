@@ -42,5 +42,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-/lib/github_outh_credentials.dart
-lib/github_outh_credentials.dart
+/lib/github_oauth_credentials.dart
+lib/github_oauth_credentials.dart

@@ -1,5 +1,3 @@
-import 'dart:js_interop_unsafe';
-
 import 'package:flutter/material.dart';
 import 'github_oauth_credentials.dart';
 import 'src/github_login.dart';
